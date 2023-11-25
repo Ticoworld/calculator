@@ -55,7 +55,7 @@ operator.forEach(operator=>{
         if (!isOperator) {
             screenNum.textContent += operator.innerHTML;
             isOperator = true     
-            isDecimal = false       
+            isDecimal = false; 
         }
     })
 })
