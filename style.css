@@ -15,7 +15,7 @@
   .calculator {
     min-width: 300px;
     height: 540px;
-    background-color: #787979;
+    background-color: red;
     border-radius: 5px;
     padding: 12px ;
   }
